@@ -1,0 +1,19 @@
+id: RULE_AGRICULTURAL_LAND_CEILING
+name: "State Land Ceiling Limit Check"
+description: "Flags aggregate parcel holdings that exceed state statutory agricultural land ceiling thresholds (default: 54 acres for dry land, 18 acres for perennial irrigated land)."
+severity: "warn"
+applies_to: "all"
+state_scope: "all"
+enabled: true
+thresholds_hectares:
+  "maharashtra":
+    irrigated: 7.28
+    dry: 21.85
+  "uttar pradesh":
+    irrigated: 7.30
+    dry: 18.25
+  "default":
+    irrigated: 7.28
+    dry: 21.85
+message_template: "Aggregate holding of {holding_ha:.2f} hectares exceeds the state ceiling limit ({ceiling_ha:.2f} ha) for land class '{land_class}' in {state}."
+disclaimer: "advisory, not legal advice"

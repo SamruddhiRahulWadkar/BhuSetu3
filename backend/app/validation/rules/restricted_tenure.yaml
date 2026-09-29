@@ -1,0 +1,9 @@
+id: RULE_RESTRICTED_TENURE_TRANSFER
+name: "Restricted Tenure / Tribal Land Transfer Verification"
+description: "Verifies that lands categorized under restricted tenure (e.g. tribal land, government grant, inam) possess the mandatory District Collector / competent authority permission prior to alienation or transfer."
+severity: "critical"
+applies_to: ["sale_deed", "mutation_register"]
+state_scope: "all"
+enabled: true
+message_template: "Transfer on restricted tenure land (Tenure: {tenure_type}) attempted without statutory District Collector permission reference."
+disclaimer: "advisory, not legal advice"

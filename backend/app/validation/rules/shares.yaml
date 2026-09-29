@@ -1,0 +1,10 @@
+id: RULE_SHARE_SUM_100
+name: "Co-owner Shares Must Sum to 100%"
+description: "Verifies that the fractional or percentage shares of all registered owners on a parcel sum to exactly 1.0 (100%) within a small rounding tolerance (0.01)."
+severity: "critical"
+applies_to: "all"
+state_scope: "all"
+enabled: true
+tolerance: 0.01
+message_template: "Total registered share sum is {total_share:.4f} (expected 1.0000). Discrepancy of {discrepancy:.4f} detected across {owner_count} owners."
+disclaimer: "advisory, not legal advice"

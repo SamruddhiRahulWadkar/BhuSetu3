@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: bhusetu-app
+    env: docker
+    dockerfilePath: Dockerfile
+    plan: free
+    region: singapore
+    envVars:
+      - key: MOCK_OCR_MODE
+        value: "true"
+      - key: SECRET_KEY
+        generateValue: true
+      - key: PORT
+        value: "8000"
+      - key: DATABASE_URL
+        value: "sqlite:///./bhusetu.db"

@@ -1,0 +1,767 @@
+{
+  "type": "FeatureCollection",
+  "name": "BhuSetu_Cadastral_Parcels",
+  "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ulpin": "27HA1001000101",
+        "survey_no": "101",
+        "village": "Wagholi",
+        "tehsil": "Haveli",
+        "district": "Pune",
+        "state": "Maharashtra",
+        "area_sqm": 4046.86,
+        "recorded_text_area_sqm": 4046.86,
+        "area_mismatch_pct": 0.0,
+        "neighbours": ["102", "105"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[73.9780, 18.5790], [73.9790, 18.5790], [73.9790, 18.5800], [73.9780, 18.5800], [73.9780, 18.5790]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulpin": "27HA1001000102",
+        "survey_no": "102",
+        "village": "Wagholi",
+        "tehsil": "Haveli",
+        "district": "Pune",
+        "state": "Maharashtra",
+        "area_sqm": 8093.72,
+        "recorded_text_area_sqm": 8093.72,
+        "area_mismatch_pct": 0.0,
+        "neighbours": ["101", "103", "106"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[73.9790, 18.5790], [73.9810, 18.5790], [73.9810, 18.5800], [73.9790, 18.5800], [73.9790, 18.5790]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulpin": "27HA1001000103",
+        "survey_no": "103/1",
+        "village": "Wagholi",
+        "tehsil": "Haveli",
+        "district": "Pune",
+        "state": "Maharashtra",
+        "area_sqm": 2529.28,
+        "recorded_text_area_sqm": 3500.00,
+        "area_mismatch_pct": 38.38,
+        "neighbours": ["102", "104"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[73.9810, 18.5790], [73.9825, 18.5790], [73.9825, 18.5800], [73.9810, 18.5800], [73.9810, 18.5790]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulpin": "27HA1001000104",
+        "survey_no": "104",
+        "village": "Wagholi",
+        "tehsil": "Haveli",
+        "district": "Pune",
+        "state": "Maharashtra",
+        "area_sqm": 5058.57,
+        "recorded_text_area_sqm": 5058.57,
+        "area_mismatch_pct": 0.0,
+        "neighbours": ["103/1", "107"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[73.9825, 18.5790], [73.9845, 18.5790], [73.9845, 18.5800], [73.9825, 18.5800], [73.9825, 18.5790]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulpin": "27HA1001000105",
+        "survey_no": "105",
+        "village": "Wagholi",
+        "tehsil": "Haveli",
+        "district": "Pune",
+        "state": "Maharashtra",
+        "area_sqm": 4046.86,
+        "recorded_text_area_sqm": 4046.86,
+        "area_mismatch_pct": 0.0,
+        "neighbours": ["101", "106", "108"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[73.9780, 18.5800], [73.9790, 18.5800], [73.9790, 18.5810], [73.9780, 18.5810], [73.9780, 18.5800]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulpin": "27HA1001000106",
+        "survey_no": "106",
+        "village": "Wagholi",
+        "tehsil": "Haveli",
+        "district": "Pune",
+        "state": "Maharashtra",
+        "area_sqm": 3035.14,
+        "recorded_text_area_sqm": 4200.00,
+        "area_mismatch_pct": 38.38,
+        "neighbours": ["102", "105", "107", "109"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[73.9790, 18.5800], [73.9810, 18.5800], [73.9810, 18.5810], [73.9790, 18.5810], [73.9790, 18.5800]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulpin": "27HA1001000107",
+        "survey_no": "107",
+        "village": "Wagholi",
+        "tehsil": "Haveli",
+        "district": "Pune",
+        "state": "Maharashtra",
+        "area_sqm": 6070.28,
+        "recorded_text_area_sqm": 6070.28,
+        "area_mismatch_pct": 0.0,
+        "neighbours": ["104", "106", "110"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[73.9810, 18.5800], [73.9835, 18.5800], [73.9835, 18.5810], [73.9810, 18.5810], [73.9810, 18.5800]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulpin": "27HA1001000108",
+        "survey_no": "108",
+        "village": "Wagholi",
+        "tehsil": "Haveli",
+        "district": "Pune",
+        "state": "Maharashtra",
+        "area_sqm": 4046.86,
+        "recorded_text_area_sqm": 4046.86,
+        "area_mismatch_pct": 0.0,
+        "neighbours": ["105", "109", "111"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[73.9780, 18.5810], [73.9790, 18.5810], [73.9790, 18.5820], [73.9780, 18.5820], [73.9780, 18.5810]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulpin": "27HA1001000109",
+        "survey_no": "109",
+        "village": "Wagholi",
+        "tehsil": "Haveli",
+        "district": "Pune",
+        "state": "Maharashtra",
+        "area_sqm": 4046.86,
+        "recorded_text_area_sqm": 4046.86,
+        "area_mismatch_pct": 0.0,
+        "neighbours": ["106", "108", "110", "112"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[73.9790, 18.5810], [73.9810, 18.5810], [73.9810, 18.5820], [73.9790, 18.5820], [73.9790, 18.5810]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulpin": "27HA1001000110",
+        "survey_no": "110",
+        "village": "Wagholi",
+        "tehsil": "Haveli",
+        "district": "Pune",
+        "state": "Maharashtra",
+        "area_sqm": 5058.57,
+        "recorded_text_area_sqm": 5058.57,
+        "area_mismatch_pct": 0.0,
+        "neighbours": ["107", "109", "113"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[73.9810, 18.5810], [73.9835, 18.5810], [73.9835, 18.5820], [73.9810, 18.5820], [73.9810, 18.5810]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulpin": "09LK2001000201",
+        "survey_no": "201",
+        "village": "Bargadi",
+        "tehsil": "Bakshi Ka Talab",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh",
+        "area_sqm": 2529.29,
+        "recorded_text_area_sqm": 2529.29,
+        "area_mismatch_pct": 0.0,
+        "neighbours": ["202", "205"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[80.9200, 26.9600], [80.9215, 26.9600], [80.9215, 26.9615], [80.9200, 26.9615], [80.9200, 26.9600]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulpin": "09LK2001000202",
+        "survey_no": "202/1",
+        "village": "Bargadi",
+        "tehsil": "Bakshi Ka Talab",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh",
+        "area_sqm": 5058.57,
+        "recorded_text_area_sqm": 6200.00,
+        "area_mismatch_pct": 22.56,
+        "neighbours": ["201", "203", "206"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[80.9215, 26.9600], [80.9240, 26.9600], [80.9240, 26.9615], [80.9215, 26.9615], [80.9215, 26.9600]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulpin": "09LK2001000203",
+        "survey_no": "203",
+        "village": "Bargadi",
+        "tehsil": "Bakshi Ka Talab",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh",
+        "area_sqm": 2529.29,
+        "recorded_text_area_sqm": 2529.29,
+        "area_mismatch_pct": 0.0,
+        "neighbours": ["202/1", "204", "207"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[80.9240, 26.9600], [80.9255, 26.9600], [80.9255, 26.9615], [80.9240, 26.9615], [80.9240, 26.9600]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulpin": "09LK2001000204",
+        "survey_no": "204",
+        "village": "Bargadi",
+        "tehsil": "Bakshi Ka Talab",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh",
+        "area_sqm": 3793.93,
+        "recorded_text_area_sqm": 3793.93,
+        "area_mismatch_pct": 0.0,
+        "neighbours": ["203", "208"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[80.9255, 26.9600], [80.9275, 26.9600], [80.9275, 26.9615], [80.9255, 26.9615], [80.9255, 26.9600]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulpin": "09LK2001000205",
+        "survey_no": "205",
+        "village": "Bargadi",
+        "tehsil": "Bakshi Ka Talab",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh",
+        "area_sqm": 2529.29,
+        "recorded_text_area_sqm": 2529.29,
+        "area_mismatch_pct": 0.0,
+        "neighbours": ["201", "206", "209"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[80.9200, 26.9615], [80.9215, 26.9615], [80.9215, 26.9630], [80.9200, 26.9630], [80.9200, 26.9615]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulpin": "09LK2001000206",
+        "survey_no": "206",
+        "village": "Bargadi",
+        "tehsil": "Bakshi Ka Talab",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh",
+        "area_sqm": 5058.57,
+        "recorded_text_area_sqm": 5058.57,
+        "area_mismatch_pct": 0.0,
+        "neighbours": ["202/1", "205", "207", "210"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[80.9215, 26.9615], [80.9240, 26.9615], [80.9240, 26.9630], [80.9215, 26.9630], [80.9215, 26.9615]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulpin": "09LK2001000207",
+        "survey_no": "207",
+        "village": "Bargadi",
+        "tehsil": "Bakshi Ka Talab",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh",
+        "area_sqm": 2529.29,
+        "recorded_text_area_sqm": 3100.00,
+        "area_mismatch_pct": 22.56,
+        "neighbours": ["203", "206", "208", "211"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[80.9240, 26.9615], [80.9255, 26.9615], [80.9255, 26.9630], [80.9240, 26.9630], [80.9240, 26.9615]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulpin": "09LK2001000208",
+        "survey_no": "208",
+        "village": "Bargadi",
+        "tehsil": "Bakshi Ka Talab",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh",
+        "area_sqm": 3793.93,
+        "recorded_text_area_sqm": 3793.93,
+        "area_mismatch_pct": 0.0,
+        "neighbours": ["204", "207", "212"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[80.9255, 26.9615], [80.9275, 26.9615], [80.9275, 26.9630], [80.9255, 26.9630], [80.9255, 26.9615]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulpin": "09LK2001000209",
+        "survey_no": "209",
+        "village": "Bargadi",
+        "tehsil": "Bakshi Ka Talab",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh",
+        "area_sqm": 2529.29,
+        "recorded_text_area_sqm": 2529.29,
+        "area_mismatch_pct": 0.0,
+        "neighbours": ["205", "210"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[80.9200, 26.9630], [80.9215, 26.9630], [80.9215, 26.9645], [80.9200, 26.9645], [80.9200, 26.9630]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulpin": "09LK2001000210",
+        "survey_no": "210",
+        "village": "Bargadi",
+        "tehsil": "Bakshi Ka Talab",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh",
+        "area_sqm": 5058.57,
+        "recorded_text_area_sqm": 5058.57,
+        "area_mismatch_pct": 0.0,
+        "neighbours": ["206", "209", "211"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[80.9215, 26.9630], [80.9240, 26.9630], [80.9240, 26.9645], [80.9215, 26.9645], [80.9215, 26.9630]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulpin": "27MU1001000301",
+        "survey_no": "301",
+        "village": "Pirangut",
+        "tehsil": "Mulshi",
+        "district": "Pune",
+        "state": "Maharashtra",
+        "area_sqm": 4046.86,
+        "recorded_text_area_sqm": 4046.86,
+        "area_mismatch_pct": 0.0,
+        "neighbours": ["302", "305"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[73.6800, 18.5100], [73.6815, 18.5100], [73.6815, 18.5115], [73.6800, 18.5115], [73.6800, 18.5100]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulpin": "27MU1001000302",
+        "survey_no": "302",
+        "village": "Pirangut",
+        "tehsil": "Mulshi",
+        "district": "Pune",
+        "state": "Maharashtra",
+        "area_sqm": 8093.72,
+        "recorded_text_area_sqm": 8093.72,
+        "area_mismatch_pct": 0.0,
+        "neighbours": ["301", "303", "306"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[73.6815, 18.5100], [73.6840, 18.5100], [73.6840, 18.5115], [73.6815, 18.5115], [73.6815, 18.5100]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulpin": "27MU1001000303",
+        "survey_no": "303",
+        "village": "Pirangut",
+        "tehsil": "Mulshi",
+        "district": "Pune",
+        "state": "Maharashtra",
+        "area_sqm": 4046.86,
+        "recorded_text_area_sqm": 4800.00,
+        "area_mismatch_pct": 18.61,
+        "neighbours": ["302", "304", "307"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[73.6840, 18.5100], [73.6855, 18.5100], [73.6855, 18.5115], [73.6840, 18.5115], [73.6840, 18.5100]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulpin": "27MU1001000304",
+        "survey_no": "304",
+        "village": "Pirangut",
+        "tehsil": "Mulshi",
+        "district": "Pune",
+        "state": "Maharashtra",
+        "area_sqm": 6070.28,
+        "recorded_text_area_sqm": 6070.28,
+        "area_mismatch_pct": 0.0,
+        "neighbours": ["303", "308"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[73.6855, 18.5100], [73.6875, 18.5100], [73.6875, 18.5115], [73.6855, 18.5115], [73.6855, 18.5100]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulpin": "27MU1001000305",
+        "survey_no": "305",
+        "village": "Pirangut",
+        "tehsil": "Mulshi",
+        "district": "Pune",
+        "state": "Maharashtra",
+        "area_sqm": 4046.86,
+        "recorded_text_area_sqm": 4046.86,
+        "area_mismatch_pct": 0.0,
+        "neighbours": ["301", "306", "309"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[73.6800, 18.5115], [73.6815, 18.5115], [73.6815, 18.5130], [73.6800, 18.5130], [73.6800, 18.5115]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulpin": "27MU1001000306",
+        "survey_no": "306",
+        "village": "Pirangut",
+        "tehsil": "Mulshi",
+        "district": "Pune",
+        "state": "Maharashtra",
+        "area_sqm": 8093.72,
+        "recorded_text_area_sqm": 8093.72,
+        "area_mismatch_pct": 0.0,
+        "neighbours": ["302", "305", "307", "310"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[73.6815, 18.5115], [73.6840, 18.5115], [73.6840, 18.5130], [73.6815, 18.5130], [73.6815, 18.5115]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulpin": "27MU1001000307",
+        "survey_no": "307",
+        "village": "Pirangut",
+        "tehsil": "Mulshi",
+        "district": "Pune",
+        "state": "Maharashtra",
+        "area_sqm": 4046.86,
+        "recorded_text_area_sqm": 4046.86,
+        "area_mismatch_pct": 0.0,
+        "neighbours": ["303", "306", "308", "311"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[73.6840, 18.5115], [73.6855, 18.5115], [73.6855, 18.5130], [73.6840, 18.5130], [73.6840, 18.5115]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulpin": "27MU1001000308",
+        "survey_no": "308",
+        "village": "Pirangut",
+        "tehsil": "Mulshi",
+        "district": "Pune",
+        "state": "Maharashtra",
+        "area_sqm": 6070.28,
+        "recorded_text_area_sqm": 6070.28,
+        "area_mismatch_pct": 0.0,
+        "neighbours": ["304", "307", "312"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[73.6855, 18.5115], [73.6875, 18.5115], [73.6875, 18.5130], [73.6855, 18.5130], [73.6855, 18.5115]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulpin": "27MU1001000309",
+        "survey_no": "309",
+        "village": "Pirangut",
+        "tehsil": "Mulshi",
+        "district": "Pune",
+        "state": "Maharashtra",
+        "area_sqm": 4046.86,
+        "recorded_text_area_sqm": 4046.86,
+        "area_mismatch_pct": 0.0,
+        "neighbours": ["305", "310"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[73.6800, 18.5130], [73.6815, 18.5130], [73.6815, 18.5145], [73.6800, 18.5145], [73.6800, 18.5130]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulpin": "27MU1001000310",
+        "survey_no": "310",
+        "village": "Pirangut",
+        "tehsil": "Mulshi",
+        "district": "Pune",
+        "state": "Maharashtra",
+        "area_sqm": 8093.72,
+        "recorded_text_area_sqm": 8093.72,
+        "area_mismatch_pct": 0.0,
+        "neighbours": ["306", "309", "311"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[73.6815, 18.5130], [73.6840, 18.5130], [73.6840, 18.5145], [73.6815, 18.5145], [73.6815, 18.5130]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulpin": "10DA1001000401",
+        "survey_no": "401",
+        "village": "Khagaul",
+        "tehsil": "Danapur",
+        "district": "Patna",
+        "state": "Bihar",
+        "area_sqm": 2529.29,
+        "recorded_text_area_sqm": 2529.29,
+        "area_mismatch_pct": 0.0,
+        "neighbours": ["402", "405"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[85.0500, 25.5800], [85.0515, 25.5800], [85.0515, 25.5815], [85.0500, 25.5815], [85.0500, 25.5800]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulpin": "10DA1001000402",
+        "survey_no": "402",
+        "village": "Khagaul",
+        "tehsil": "Danapur",
+        "district": "Patna",
+        "state": "Bihar",
+        "area_sqm": 5058.57,
+        "recorded_text_area_sqm": 5058.57,
+        "area_mismatch_pct": 0.0,
+        "neighbours": ["401", "403", "406"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[85.0515, 25.5800], [85.0540, 25.5800], [85.0540, 25.5815], [85.0515, 25.5815], [85.0515, 25.5800]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulpin": "10DA1001000403",
+        "survey_no": "403",
+        "village": "Khagaul",
+        "tehsil": "Danapur",
+        "district": "Patna",
+        "state": "Bihar",
+        "area_sqm": 2529.29,
+        "recorded_text_area_sqm": 2529.29,
+        "area_mismatch_pct": 0.0,
+        "neighbours": ["402", "404", "407"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[85.0540, 25.5800], [85.0555, 25.5800], [85.0555, 25.5815], [85.0540, 25.5815], [85.0540, 25.5800]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulpin": "10DA1001000404",
+        "survey_no": "404",
+        "village": "Khagaul",
+        "tehsil": "Danapur",
+        "district": "Patna",
+        "state": "Bihar",
+        "area_sqm": 3793.93,
+        "recorded_text_area_sqm": 4800.00,
+        "area_mismatch_pct": 26.52,
+        "neighbours": ["403", "408"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[85.0555, 25.5800], [85.0575, 25.5800], [85.0575, 25.5815], [85.0555, 25.5815], [85.0555, 25.5800]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulpin": "10DA1001000405",
+        "survey_no": "405",
+        "village": "Khagaul",
+        "tehsil": "Danapur",
+        "district": "Patna",
+        "state": "Bihar",
+        "area_sqm": 2529.29,
+        "recorded_text_area_sqm": 2529.29,
+        "area_mismatch_pct": 0.0,
+        "neighbours": ["401", "406"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[85.0500, 25.5815], [85.0515, 25.5815], [85.0515, 25.5830], [85.0500, 25.5830], [85.0500, 25.5815]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulpin": "10DA1001000406",
+        "survey_no": "406",
+        "village": "Khagaul",
+        "tehsil": "Danapur",
+        "district": "Patna",
+        "state": "Bihar",
+        "area_sqm": 5058.57,
+        "recorded_text_area_sqm": 5058.57,
+        "area_mismatch_pct": 0.0,
+        "neighbours": ["402", "405", "407"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[85.0515, 25.5815], [85.0540, 25.5815], [85.0540, 25.5830], [85.0515, 25.5830], [85.0515, 25.5815]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulpin": "10DA1001000407",
+        "survey_no": "407",
+        "village": "Khagaul",
+        "tehsil": "Danapur",
+        "district": "Patna",
+        "state": "Bihar",
+        "area_sqm": 2529.29,
+        "recorded_text_area_sqm": 2529.29,
+        "area_mismatch_pct": 0.0,
+        "neighbours": ["403", "406", "408"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[85.0540, 25.5815], [85.0555, 25.5815], [85.0555, 25.5830], [85.0540, 25.5830], [85.0540, 25.5815]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulpin": "10DA1001000408",
+        "survey_no": "408",
+        "village": "Khagaul",
+        "tehsil": "Danapur",
+        "district": "Patna",
+        "state": "Bihar",
+        "area_sqm": 3793.93,
+        "recorded_text_area_sqm": 3793.93,
+        "area_mismatch_pct": 0.0,
+        "neighbours": ["404", "407"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[85.0555, 25.5815], [85.0575, 25.5815], [85.0575, 25.5830], [85.0555, 25.5830], [85.0555, 25.5815]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulpin": "27KH1001000501",
+        "survey_no": "501",
+        "village": "Kharadi",
+        "tehsil": "Haveli",
+        "district": "Pune",
+        "state": "Maharashtra",
+        "area_sqm": 4046.86,
+        "recorded_text_area_sqm": 4046.86,
+        "area_mismatch_pct": 0.0,
+        "neighbours": ["502"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[73.9400, 18.5500], [73.9415, 18.5500], [73.9415, 18.5515], [73.9400, 18.5515], [73.9400, 18.5500]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulpin": "27KH1001000502",
+        "survey_no": "502",
+        "village": "Kharadi",
+        "tehsil": "Haveli",
+        "district": "Pune",
+        "state": "Maharashtra",
+        "area_sqm": 6070.28,
+        "recorded_text_area_sqm": 7500.00,
+        "area_mismatch_pct": 23.55,
+        "neighbours": ["501"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[73.9415, 18.5500], [73.9435, 18.5500], [73.9435, 18.5515], [73.9415, 18.5515], [73.9415, 18.5500]]]
+      }
+    }
+  ]
+}

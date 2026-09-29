@@ -1,0 +1,9 @@
+id: RULE_ADMIN_HIERARCHY_VALIDITY
+name: "Administrative Master Hierarchy Validity (Village-Tehsil-District)"
+description: "Cross-checks extracted administrative boundaries against the national Land Records Management System (LRMS) Master Directory to prevent fraudulent or misspelled jurisdictions."
+severity: "error"
+applies_to: "all"
+state_scope: "all"
+enabled: true
+message_template: "Invalid administrative hierarchy: Village '{village}' is not mapped to Tehsil '{tehsil}' in District '{district}', {state} in LRMS directory."
+disclaimer: "advisory, not legal advice"

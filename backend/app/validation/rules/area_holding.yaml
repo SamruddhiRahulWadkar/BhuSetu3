@@ -1,0 +1,10 @@
+id: RULE_AREA_HOLDING_LIMIT
+name: "Sale or Transfer Area Must Not Exceed Parcel Holding"
+description: "Verifies that the transferred area in a deed or mutation does not exceed the total holding area recorded for the seller, and sub-divisions sum to the parent parcel area."
+severity: "critical"
+applies_to: ["sale_deed", "mutation_register", "khatauni_7_12"]
+state_scope: "all"
+enabled: true
+tolerance_percent: 1.0
+message_template: "Transferred area ({transferred_area_sqm:.2f} sq m) exceeds recorded parcel holding area ({holding_area_sqm:.2f} sq m) by {excess_sqm:.2f} sq m ({excess_percent:.1f}%)."
+disclaimer: "advisory, not legal advice"

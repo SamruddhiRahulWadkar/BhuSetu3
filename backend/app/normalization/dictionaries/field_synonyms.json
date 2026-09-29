@@ -1,0 +1,64 @@
+{
+  "field_mappings": {
+    "survey_or_khasra_no": [
+      "survey no", "survey_no", "survey number", "sy.no", "sy no", "syno",
+      "khasra", "khasra no", "khasra number", "gata", "gata no", "gata sankhya",
+      "सर्वे नंबर", "सर्वे क्र", "सर्वे क्रमांक", "गट नंबर", "गट क्रमांक",
+      "खसरा", "खसरा संख्या", "खसरा नं", "गाटा", "गाटा संख्या",
+      "సర్వే నంబర్", "రచ్చబండ సర్వే నం"
+    ],
+    "khata_no": [
+      "khata", "khata no", "khata number", "khatoni", "khatauni", "khatauni no",
+      "खाता", "खाता संख्या", "खाते क्रमांक", "खाता नं", "खातेदार क्रमांक",
+      "खाता विवरण", "खातादार", "ఖాతా నంబరు"
+    ],
+    "sub_division": [
+      "sub division", "sub_division", "hissa", "hissa no", "pot hissa",
+      "पोटहिस्सा", "हिस्सा", "हिस्सा क्रमांक", "उप विभाजन", "उपविभाग",
+      "హిస్సా"
+    ],
+    "record_type": [
+      "7/12 utara", "7 12", "7/12", "satbara", "saat baara",
+      "khatauni", "khatoni", "jamabandi",
+      "patta", "chitta", "adangal", "pahani", "rtc", "sale deed", "mutation extract"
+    ],
+    "owner_name": [
+      "owner", "owner name", "landowner", "pattedar", "khatadar", "holder",
+      "खातेदाराचे नाव", "खातेदार का नाम", "जमीनदाराचे नाव", "मालिक", "पट्टेदार", "पट्टादार",
+      "ఖాతాదారు పేరు", "భూయజమాని పేరు"
+    ],
+    "father_or_husband_name": [
+      "father name", "husband name", "father or husband", "parent name",
+      "वडिलांचे नाव", "पतीचे नाव", "पिता का नाम", "पति का नाम", "पिता/पति",
+      "తండ్రి పేరు", "భర్త పేరు"
+    ],
+    "plot_area": [
+      "area", "plot area", "holding area", "total area", "extent", "rakba",
+      "क्षेत्रफळ", "रकबा", "एकूण क्षेत्र", "विस्तीर्ण", "क्षेत्र", "విస్తీర్ణము"
+    ],
+    "village": [
+      "village", "mauza", "gram", "gaon", "gao",
+      "गाव", "ग्राम", "मौजा", "गाँव", "గ్రామము"
+    ],
+    "tehsil": [
+      "tehsil", "taluk", "taluka", "mandal",
+      "तालुका", "तहसील", "मंडल", "తాలూకా", "మండలము"
+    ],
+    "district": [
+      "district", "jila", "zilla",
+      "जिल्हा", "ज़िला", "जिला", "జిల్లా"
+    ],
+    "state": [
+      "state", "rajya",
+      "राज्य", "రాష్ట్రము"
+    ],
+    "land_classification": [
+      "land class", "land classification", "nature of land", "land type",
+      "जमिनीचा प्रकार", "भूमि प्रकार", "धारणा प्रकार", "धरम", "భూమి వర్గీకరణ"
+    ],
+    "ulpin": [
+      "ulpin", "bhu aadhaar", "unique land parcel identification number",
+      "भू आधार", "यूएलपीआईएन"
+    ]
+  }
+}

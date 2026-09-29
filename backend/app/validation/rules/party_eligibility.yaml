@@ -1,0 +1,9 @@
+id: RULE_PARTY_LEGAL_CAPACITY
+name: "Legal Capacity of Parties (Deceased / Minor Status)"
+description: "Verifies that an owner does not execute a transfer or appear as an active transferor after a recorded date of death. Flags transactions involving minors without registered guardian details or court permission."
+severity: "critical"
+applies_to: "all"
+state_scope: "all"
+enabled: true
+message_template: "Legal capacity violation: Party '{party_name}' recorded as deceased on {date_of_death}, but appears as an executing party on {transaction_date}."
+disclaimer: "advisory, not legal advice"

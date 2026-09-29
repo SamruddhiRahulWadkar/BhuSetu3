@@ -1,0 +1,1475 @@
+{
+  "total_records": 30,
+  "records": [
+    {
+      "id": "BHU-REC-001",
+      "filename": "record_01.png",
+      "language": "hindi",
+      "document_type": "khatauni_7_12",
+      "degradation": "none",
+      "has_fault": false,
+      "injected_fault": null,
+      "ground_truth": {
+        "state": "Uttar Pradesh",
+        "district": "Lucknow",
+        "tehsil": "Bakshi Ka Talab",
+        "village": "Bargadi",
+        "survey_no": "101",
+        "khata_no": "53",
+        "land_classification": "irrigated",
+        "plot_area": {
+          "value": 2.5,
+          "unit": "bigha",
+          "area_sqm": 6323.23,
+          "area_hectares": 0.6323
+        },
+        "owners": [
+          {
+            "name": "अशोक सिंह",
+            "share": 0.5,
+            "is_deceased": false,
+            "date_of_death": null
+          },
+          {
+            "name": "सुनीता मिश्रा",
+            "share": 0.5,
+            "is_deceased": false
+          }
+        ],
+        "mutation": {
+          "mutation_no": "M-801",
+          "mutation_date": "2021-09-26",
+          "registration_date": "2021-07-10",
+          "transferred_area_sqm": 3161.61,
+          "holding_area_sqm": 6323.23
+        },
+        "registration": {
+          "reg_no": "REG-2021-3001",
+          "reg_date": "2021-07-10"
+        },
+        "ulpin": "27HA1001000101"
+      }
+    },
+    {
+      "id": "BHU-REC-002",
+      "filename": "record_02.png",
+      "language": "hindi",
+      "document_type": "mutation_register",
+      "degradation": "faded_ink",
+      "has_fault": false,
+      "injected_fault": null,
+      "ground_truth": {
+        "state": "Bihar",
+        "district": "Patna",
+        "tehsil": "Danapur",
+        "village": "Khagaul",
+        "survey_no": "102",
+        "khata_no": "56",
+        "land_classification": "irrigated",
+        "plot_area": {
+          "value": 1.56,
+          "unit": "bigha",
+          "area_sqm": 3945.69,
+          "area_hectares": 0.3946
+        },
+        "owners": [
+          {
+            "name": "सुरेश सिंह",
+            "share": 0.5,
+            "is_deceased": false,
+            "date_of_death": null
+          },
+          {
+            "name": "महेश यादव",
+            "share": 0.5,
+            "is_deceased": false
+          }
+        ],
+        "mutation": {
+          "mutation_no": "M-802",
+          "mutation_date": "2021-09-13",
+          "registration_date": "2021-07-10",
+          "transferred_area_sqm": 1972.85,
+          "holding_area_sqm": 3945.69
+        },
+        "registration": {
+          "reg_no": "REG-2021-3002",
+          "reg_date": "2021-07-10"
+        },
+        "ulpin": "27HA1001000102"
+      }
+    },
+    {
+      "id": "BHU-REC-003",
+      "filename": "record_03.png",
+      "language": "hindi",
+      "document_type": "sale_deed",
+      "degradation": "blur",
+      "has_fault": true,
+      "injected_fault": "shares_not_summing_to_1",
+      "ground_truth": {
+        "state": "Uttar Pradesh",
+        "district": "Varanasi",
+        "tehsil": "Pindra",
+        "village": "Sindhora",
+        "survey_no": "103",
+        "khata_no": "59",
+        "land_classification": "irrigated",
+        "plot_area": {
+          "value": 1.05,
+          "unit": "bigha",
+          "area_sqm": 2655.75,
+          "area_hectares": 0.2656
+        },
+        "owners": [
+          {
+            "name": "महेश चौहान",
+            "share": 0.4,
+            "is_deceased": false,
+            "date_of_death": null
+          },
+          {
+            "name": "अशोक वर्मा",
+            "share": 0.4,
+            "is_deceased": false
+          }
+        ],
+        "mutation": {
+          "mutation_no": "M-803",
+          "mutation_date": "2021-09-13",
+          "registration_date": "2021-06-10",
+          "transferred_area_sqm": 1327.88,
+          "holding_area_sqm": 2655.75
+        },
+        "registration": {
+          "reg_no": "REG-2021-3003",
+          "reg_date": "2021-06-10"
+        },
+        "ulpin": "27HA1001000103"
+      }
+    },
+    {
+      "id": "BHU-REC-004",
+      "filename": "record_04.png",
+      "language": "hindi",
+      "document_type": "khatauni_7_12",
+      "degradation": "stains",
+      "has_fault": false,
+      "injected_fault": null,
+      "ground_truth": {
+        "state": "Uttar Pradesh",
+        "district": "Lucknow",
+        "tehsil": "Bakshi Ka Talab",
+        "village": "Bargadi",
+        "survey_no": "104",
+        "khata_no": "62",
+        "land_classification": "irrigated",
+        "plot_area": {
+          "value": 1.17,
+          "unit": "bigha",
+          "area_sqm": 2959.27,
+          "area_hectares": 0.2959
+        },
+        "owners": [
+          {
+            "name": "महेश शर्मा",
+            "share": 0.5,
+            "is_deceased": false,
+            "date_of_death": null
+          },
+          {
+            "name": "कमला सिंह",
+            "share": 0.5,
+            "is_deceased": false
+          }
+        ],
+        "mutation": {
+          "mutation_no": "M-804",
+          "mutation_date": "2021-09-10",
+          "registration_date": "2021-05-11",
+          "transferred_area_sqm": 1479.63,
+          "holding_area_sqm": 2959.27
+        },
+        "registration": {
+          "reg_no": "REG-2021-3004",
+          "reg_date": "2021-05-11"
+        },
+        "ulpin": "27HA1001000104"
+      }
+    },
+    {
+      "id": "BHU-REC-005",
+      "filename": "record_05.png",
+      "language": "hindi",
+      "document_type": "mutation_register",
+      "degradation": "torn_corner",
+      "has_fault": false,
+      "injected_fault": null,
+      "ground_truth": {
+        "state": "Uttar Pradesh",
+        "district": "Varanasi",
+        "tehsil": "Pindra",
+        "village": "Sindhora",
+        "survey_no": "105",
+        "khata_no": "65",
+        "land_classification": "irrigated",
+        "plot_area": {
+          "value": 1.98,
+          "unit": "bigha",
+          "area_sqm": 5007.99,
+          "area_hectares": 0.5008
+        },
+        "owners": [
+          {
+            "name": "सुरेश पांडेय",
+            "share": 0.5,
+            "is_deceased": false,
+            "date_of_death": null
+          },
+          {
+            "name": "सुनीता मिश्रा",
+            "share": 0.5,
+            "is_deceased": false
+          }
+        ],
+        "mutation": {
+          "mutation_no": "M-805",
+          "mutation_date": "2021-09-10",
+          "registration_date": "2021-03-23",
+          "transferred_area_sqm": 2503.99,
+          "holding_area_sqm": 5007.99
+        },
+        "registration": {
+          "reg_no": "REG-2021-3005",
+          "reg_date": "2021-03-23"
+        },
+        "ulpin": "27HA1001000105"
+      }
+    },
+    {
+      "id": "BHU-REC-006",
+      "filename": "record_06.png",
+      "language": "hindi",
+      "document_type": "sale_deed",
+      "degradation": "skew",
+      "has_fault": false,
+      "injected_fault": null,
+      "ground_truth": {
+        "state": "Uttar Pradesh",
+        "district": "Varanasi",
+        "tehsil": "Pindra",
+        "village": "Sindhora",
+        "survey_no": "106",
+        "khata_no": "68",
+        "land_classification": "irrigated",
+        "plot_area": {
+          "value": 3.42,
+          "unit": "bigha",
+          "area_sqm": 8650.17,
+          "area_hectares": 0.865
+        },
+        "owners": [
+          {
+            "name": "राजेश गुप्ता",
+            "share": 0.5,
+            "is_deceased": false,
+            "date_of_death": null
+          },
+          {
+            "name": "कमला पांडेय",
+            "share": 0.5,
+            "is_deceased": false
+          }
+        ],
+        "mutation": {
+          "mutation_no": "M-806",
+          "mutation_date": "2021-09-25",
+          "registration_date": "2021-08-13",
+          "transferred_area_sqm": 4325.09,
+          "holding_area_sqm": 8650.17
+        },
+        "registration": {
+          "reg_no": "REG-2021-3006",
+          "reg_date": "2021-08-13"
+        },
+        "ulpin": "27HA1001000106"
+      }
+    },
+    {
+      "id": "BHU-REC-007",
+      "filename": "record_07.png",
+      "language": "hindi",
+      "document_type": "khatauni_7_12",
+      "degradation": "low_resolution",
+      "has_fault": true,
+      "injected_fault": "mutation_dated_before_registration",
+      "ground_truth": {
+        "state": "Uttar Pradesh",
+        "district": "Lucknow",
+        "tehsil": "Bakshi Ka Talab",
+        "village": "Bargadi",
+        "survey_no": "107",
+        "khata_no": "71",
+        "land_classification": "irrigated",
+        "plot_area": {
+          "value": 2.9,
+          "unit": "bigha",
+          "area_sqm": 7334.94,
+          "area_hectares": 0.7335
+        },
+        "owners": [
+          {
+            "name": "दिनेश पांडेय",
+            "share": 0.5,
+            "is_deceased": false,
+            "date_of_death": null
+          },
+          {
+            "name": "सुरेश मिश्रा",
+            "share": 0.5,
+            "is_deceased": false
+          }
+        ],
+        "mutation": {
+          "mutation_no": "M-807",
+          "mutation_date": "2020-02-15",
+          "registration_date": "2020-08-20",
+          "transferred_area_sqm": 3667.47,
+          "holding_area_sqm": 7334.94
+        },
+        "registration": {
+          "reg_no": "REG-2021-3007",
+          "reg_date": "2020-08-20"
+        },
+        "ulpin": "27HA1001000107"
+      }
+    },
+    {
+      "id": "BHU-REC-008",
+      "filename": "record_08.png",
+      "language": "hindi",
+      "document_type": "mutation_register",
+      "degradation": "handwritten_overlay",
+      "has_fault": false,
+      "injected_fault": null,
+      "ground_truth": {
+        "state": "Bihar",
+        "district": "Patna",
+        "tehsil": "Danapur",
+        "village": "Khagaul",
+        "survey_no": "108",
+        "khata_no": "74",
+        "land_classification": "irrigated",
+        "plot_area": {
+          "value": 2.35,
+          "unit": "bigha",
+          "area_sqm": 5943.83,
+          "area_hectares": 0.5944
+        },
+        "owners": [
+          {
+            "name": "अशोक मिश्रा",
+            "share": 0.5,
+            "is_deceased": false,
+            "date_of_death": null
+          },
+          {
+            "name": "कमला चौहान",
+            "share": 0.5,
+            "is_deceased": false
+          }
+        ],
+        "mutation": {
+          "mutation_no": "M-808",
+          "mutation_date": "2021-09-12",
+          "registration_date": "2021-04-27",
+          "transferred_area_sqm": 2971.91,
+          "holding_area_sqm": 5943.83
+        },
+        "registration": {
+          "reg_no": "REG-2021-3008",
+          "reg_date": "2021-04-27"
+        },
+        "ulpin": "27HA1001000108"
+      }
+    },
+    {
+      "id": "BHU-REC-009",
+      "filename": "record_09.png",
+      "language": "hindi",
+      "document_type": "sale_deed",
+      "degradation": "none",
+      "has_fault": false,
+      "injected_fault": null,
+      "ground_truth": {
+        "state": "Uttar Pradesh",
+        "district": "Lucknow",
+        "tehsil": "Bakshi Ka Talab",
+        "village": "Asthi",
+        "survey_no": "109",
+        "khata_no": "77",
+        "land_classification": "irrigated",
+        "plot_area": {
+          "value": 2.83,
+          "unit": "bigha",
+          "area_sqm": 7157.89,
+          "area_hectares": 0.7158
+        },
+        "owners": [
+          {
+            "name": "राजेश यादव",
+            "share": 0.5,
+            "is_deceased": false,
+            "date_of_death": null
+          },
+          {
+            "name": "कमला गुप्ता",
+            "share": 0.5,
+            "is_deceased": false
+          }
+        ],
+        "mutation": {
+          "mutation_no": "M-809",
+          "mutation_date": "2021-09-20",
+          "registration_date": "2021-07-26",
+          "transferred_area_sqm": 3578.95,
+          "holding_area_sqm": 7157.89
+        },
+        "registration": {
+          "reg_no": "REG-2021-3009",
+          "reg_date": "2021-07-26"
+        },
+        "ulpin": "27HA1001000109"
+      }
+    },
+    {
+      "id": "BHU-REC-010",
+      "filename": "record_10.png",
+      "language": "hindi",
+      "document_type": "khatauni_7_12",
+      "degradation": "faded_ink",
+      "has_fault": false,
+      "injected_fault": null,
+      "ground_truth": {
+        "state": "Uttar Pradesh",
+        "district": "Varanasi",
+        "tehsil": "Pindra",
+        "village": "Sindhora",
+        "survey_no": "110",
+        "khata_no": "80",
+        "land_classification": "irrigated",
+        "plot_area": {
+          "value": 1.4,
+          "unit": "bigha",
+          "area_sqm": 3541.01,
+          "area_hectares": 0.3541
+        },
+        "owners": [
+          {
+            "name": "रामेश्वर चौहान",
+            "share": 0.5,
+            "is_deceased": false,
+            "date_of_death": null
+          },
+          {
+            "name": "दिनेश पांडेय",
+            "share": 0.5,
+            "is_deceased": false
+          }
+        ],
+        "mutation": {
+          "mutation_no": "M-810",
+          "mutation_date": "2021-09-21",
+          "registration_date": "2021-06-15",
+          "transferred_area_sqm": 1770.51,
+          "holding_area_sqm": 3541.01
+        },
+        "registration": {
+          "reg_no": "REG-2021-3010",
+          "reg_date": "2021-06-15"
+        },
+        "ulpin": "27HA1001000110"
+      }
+    },
+    {
+      "id": "BHU-REC-011",
+      "filename": "record_11.png",
+      "language": "marathi",
+      "document_type": "khatauni_7_12",
+      "degradation": "blur",
+      "has_fault": true,
+      "injected_fault": "sale_area_exceeding_holding",
+      "ground_truth": {
+        "state": "Maharashtra",
+        "district": "Pune",
+        "tehsil": "Mulshi",
+        "village": "Pirangut",
+        "survey_no": "111",
+        "khata_no": "83",
+        "land_classification": "unirrigated_dry",
+        "plot_area": {
+          "value": 56.0,
+          "unit": "guntha",
+          "area_sqm": 5665.52,
+          "area_hectares": 0.5666
+        },
+        "owners": [
+          {
+            "name": "सुप्रिया मोरे",
+            "share": 0.5,
+            "is_deceased": false,
+            "date_of_death": null
+          },
+          {
+            "name": "सुभाष मोरे",
+            "share": 0.5,
+            "is_deceased": false
+          }
+        ],
+        "mutation": {
+          "mutation_no": "M-811",
+          "mutation_date": "2021-09-18",
+          "registration_date": "2021-05-14",
+          "transferred_area_sqm": 8498.28,
+          "holding_area_sqm": 5665.52
+        },
+        "registration": {
+          "reg_no": "REG-2021-3011",
+          "reg_date": "2021-05-14"
+        },
+        "ulpin": "27HA1001000111"
+      }
+    },
+    {
+      "id": "BHU-REC-012",
+      "filename": "record_12.png",
+      "language": "marathi",
+      "document_type": "mutation_register",
+      "degradation": "stains",
+      "has_fault": false,
+      "injected_fault": null,
+      "ground_truth": {
+        "state": "Maharashtra",
+        "district": "Pune",
+        "tehsil": "Mulshi",
+        "village": "Pirangut",
+        "survey_no": "112",
+        "khata_no": "86",
+        "land_classification": "unirrigated_dry",
+        "plot_area": {
+          "value": 35.1,
+          "unit": "guntha",
+          "area_sqm": 3551.07,
+          "area_hectares": 0.3551
+        },
+        "owners": [
+          {
+            "name": "सुप्रिया शिंदे",
+            "share": 0.5,
+            "is_deceased": false,
+            "date_of_death": null
+          },
+          {
+            "name": "सुप्रिया मोरे",
+            "share": 0.5,
+            "is_deceased": false
+          }
+        ],
+        "mutation": {
+          "mutation_no": "M-812",
+          "mutation_date": "2021-09-16",
+          "registration_date": "2021-07-22",
+          "transferred_area_sqm": 1775.54,
+          "holding_area_sqm": 3551.07
+        },
+        "registration": {
+          "reg_no": "REG-2021-3012",
+          "reg_date": "2021-07-22"
+        },
+        "ulpin": "27HA1001000112"
+      }
+    },
+    {
+      "id": "BHU-REC-013",
+      "filename": "record_13.png",
+      "language": "marathi",
+      "document_type": "sale_deed",
+      "degradation": "torn_corner",
+      "has_fault": false,
+      "injected_fault": null,
+      "ground_truth": {
+        "state": "Maharashtra",
+        "district": "Pune",
+        "tehsil": "Haveli",
+        "village": "Wagholi",
+        "survey_no": "113",
+        "khata_no": "89",
+        "land_classification": "unirrigated_dry",
+        "plot_area": {
+          "value": 19.0,
+          "unit": "guntha",
+          "area_sqm": 1922.23,
+          "area_hectares": 0.1922
+        },
+        "owners": [
+          {
+            "name": "बाबूराव पवार",
+            "share": 0.5,
+            "is_deceased": false,
+            "date_of_death": null
+          },
+          {
+            "name": "विठ्ठल देशमुख",
+            "share": 0.5,
+            "is_deceased": false
+          }
+        ],
+        "mutation": {
+          "mutation_no": "M-813",
+          "mutation_date": "2021-09-27",
+          "registration_date": "2021-08-25",
+          "transferred_area_sqm": 961.12,
+          "holding_area_sqm": 1922.23
+        },
+        "registration": {
+          "reg_no": "REG-2021-3013",
+          "reg_date": "2021-08-25"
+        },
+        "ulpin": "27HA1001000113"
+      }
+    },
+    {
+      "id": "BHU-REC-014",
+      "filename": "record_14.png",
+      "language": "marathi",
+      "document_type": "khatauni_7_12",
+      "degradation": "skew",
+      "has_fault": true,
+      "injected_fault": "owner_acting_after_death",
+      "ground_truth": {
+        "state": "Maharashtra",
+        "district": "Pune",
+        "tehsil": "Haveli",
+        "village": "Wagholi",
+        "survey_no": "114",
+        "khata_no": "92",
+        "land_classification": "unirrigated_dry",
+        "plot_area": {
+          "value": 42.8,
+          "unit": "guntha",
+          "area_sqm": 4330.08,
+          "area_hectares": 0.433
+        },
+        "owners": [
+          {
+            "name": "सुप्रिया शिंदे",
+            "share": 0.5,
+            "is_deceased": true,
+            "date_of_death": "2019-03-10"
+          },
+          {
+            "name": "आनंद कुलकर्णी",
+            "share": 0.5,
+            "is_deceased": false
+          }
+        ],
+        "mutation": {
+          "mutation_no": "M-814",
+          "mutation_date": "2021-09-28",
+          "registration_date": "2021-05-18",
+          "transferred_area_sqm": 2165.04,
+          "holding_area_sqm": 4330.08
+        },
+        "registration": {
+          "reg_no": "REG-2021-3014",
+          "reg_date": "2021-05-18"
+        },
+        "ulpin": "27HA1001000114"
+      }
+    },
+    {
+      "id": "BHU-REC-015",
+      "filename": "record_15.png",
+      "language": "marathi",
+      "document_type": "mutation_register",
+      "degradation": "low_resolution",
+      "has_fault": false,
+      "injected_fault": null,
+      "ground_truth": {
+        "state": "Maharashtra",
+        "district": "Pune",
+        "tehsil": "Haveli",
+        "village": "Wagholi",
+        "survey_no": "115",
+        "khata_no": "95",
+        "land_classification": "unirrigated_dry",
+        "plot_area": {
+          "value": 59.3,
+          "unit": "guntha",
+          "area_sqm": 5999.38,
+          "area_hectares": 0.5999
+        },
+        "owners": [
+          {
+            "name": "सुभाष पाटील",
+            "share": 0.5,
+            "is_deceased": false,
+            "date_of_death": null
+          },
+          {
+            "name": "बाबूराव जाधव",
+            "share": 0.5,
+            "is_deceased": false
+          }
+        ],
+        "mutation": {
+          "mutation_no": "M-815",
+          "mutation_date": "2021-09-10",
+          "registration_date": "2021-06-22",
+          "transferred_area_sqm": 2999.69,
+          "holding_area_sqm": 5999.38
+        },
+        "registration": {
+          "reg_no": "REG-2021-3015",
+          "reg_date": "2021-06-22"
+        },
+        "ulpin": "27HA1001000115"
+      }
+    },
+    {
+      "id": "BHU-REC-016",
+      "filename": "record_16.png",
+      "language": "marathi",
+      "document_type": "sale_deed",
+      "degradation": "handwritten_overlay",
+      "has_fault": false,
+      "injected_fault": null,
+      "ground_truth": {
+        "state": "Maharashtra",
+        "district": "Pune",
+        "tehsil": "Mulshi",
+        "village": "Pirangut",
+        "survey_no": "116",
+        "khata_no": "98",
+        "land_classification": "unirrigated_dry",
+        "plot_area": {
+          "value": 30.9,
+          "unit": "guntha",
+          "area_sqm": 3126.15,
+          "area_hectares": 0.3126
+        },
+        "owners": [
+          {
+            "name": "बाबूराव कुलकर्णी",
+            "share": 0.5,
+            "is_deceased": false,
+            "date_of_death": null
+          },
+          {
+            "name": "रमेश कुलकर्णी",
+            "share": 0.5,
+            "is_deceased": false
+          }
+        ],
+        "mutation": {
+          "mutation_no": "M-816",
+          "mutation_date": "2021-09-24",
+          "registration_date": "2021-05-18",
+          "transferred_area_sqm": 1563.08,
+          "holding_area_sqm": 3126.15
+        },
+        "registration": {
+          "reg_no": "REG-2021-3016",
+          "reg_date": "2021-05-18"
+        },
+        "ulpin": "27HA1001000116"
+      }
+    },
+    {
+      "id": "BHU-REC-017",
+      "filename": "record_17.png",
+      "language": "marathi",
+      "document_type": "khatauni_7_12",
+      "degradation": "none",
+      "has_fault": false,
+      "injected_fault": null,
+      "ground_truth": {
+        "state": "Maharashtra",
+        "district": "Pune",
+        "tehsil": "Mulshi",
+        "village": "Pirangut",
+        "survey_no": "117",
+        "khata_no": "101",
+        "land_classification": "unirrigated_dry",
+        "plot_area": {
+          "value": 45.6,
+          "unit": "guntha",
+          "area_sqm": 4613.35,
+          "area_hectares": 0.4613
+        },
+        "owners": [
+          {
+            "name": "ज्ञानेश्वर मोरे",
+            "share": 0.5,
+            "is_deceased": false,
+            "date_of_death": null
+          },
+          {
+            "name": "रमेश पवार",
+            "share": 0.5,
+            "is_deceased": false
+          }
+        ],
+        "mutation": {
+          "mutation_no": "M-817",
+          "mutation_date": "2021-09-22",
+          "registration_date": "2021-03-25",
+          "transferred_area_sqm": 2306.68,
+          "holding_area_sqm": 4613.35
+        },
+        "registration": {
+          "reg_no": "REG-2021-3017",
+          "reg_date": "2021-03-25"
+        },
+        "ulpin": "27HA1001000117"
+      }
+    },
+    {
+      "id": "BHU-REC-018",
+      "filename": "record_18.png",
+      "language": "marathi",
+      "document_type": "mutation_register",
+      "degradation": "faded_ink",
+      "has_fault": true,
+      "injected_fault": "duplicate_survey_conflict",
+      "ground_truth": {
+        "state": "Maharashtra",
+        "district": "Pune",
+        "tehsil": "Haveli",
+        "village": "Kharadi",
+        "survey_no": "101",
+        "khata_no": "104",
+        "land_classification": "unirrigated_dry",
+        "plot_area": {
+          "value": 54.8,
+          "unit": "guntha",
+          "area_sqm": 5544.12,
+          "area_hectares": 0.5544
+        },
+        "owners": [
+          {
+            "name": "विठ्ठल पवार",
+            "share": 0.5,
+            "is_deceased": false,
+            "date_of_death": null
+          },
+          {
+            "name": "विठ्ठल कुलकर्णी",
+            "share": 0.5,
+            "is_deceased": false
+          }
+        ],
+        "mutation": {
+          "mutation_no": "M-818",
+          "mutation_date": "2021-09-15",
+          "registration_date": "2021-03-12",
+          "transferred_area_sqm": 2772.06,
+          "holding_area_sqm": 5544.12
+        },
+        "registration": {
+          "reg_no": "REG-2021-3018",
+          "reg_date": "2021-03-12"
+        },
+        "ulpin": "27HA1001000118"
+      }
+    },
+    {
+      "id": "BHU-REC-019",
+      "filename": "record_19.png",
+      "language": "marathi",
+      "document_type": "sale_deed",
+      "degradation": "blur",
+      "has_fault": false,
+      "injected_fault": null,
+      "ground_truth": {
+        "state": "Maharashtra",
+        "district": "Pune",
+        "tehsil": "Khed",
+        "village": "Chakan",
+        "survey_no": "119",
+        "khata_no": "107",
+        "land_classification": "unirrigated_dry",
+        "plot_area": {
+          "value": 36.9,
+          "unit": "guntha",
+          "area_sqm": 3733.17,
+          "area_hectares": 0.3733
+        },
+        "owners": [
+          {
+            "name": "दत्तात्रेय कुलकर्णी",
+            "share": 0.5,
+            "is_deceased": false,
+            "date_of_death": null
+          },
+          {
+            "name": "सुभाष शिंदे",
+            "share": 0.5,
+            "is_deceased": false
+          }
+        ],
+        "mutation": {
+          "mutation_no": "M-819",
+          "mutation_date": "2021-09-22",
+          "registration_date": "2021-05-12",
+          "transferred_area_sqm": 1866.59,
+          "holding_area_sqm": 3733.17
+        },
+        "registration": {
+          "reg_no": "REG-2021-3019",
+          "reg_date": "2021-05-12"
+        },
+        "ulpin": "27HA1001000119"
+      }
+    },
+    {
+      "id": "BHU-REC-020",
+      "filename": "record_20.png",
+      "language": "marathi",
+      "document_type": "khatauni_7_12",
+      "degradation": "stains",
+      "has_fault": false,
+      "injected_fault": null,
+      "ground_truth": {
+        "state": "Maharashtra",
+        "district": "Pune",
+        "tehsil": "Mulshi",
+        "village": "Pirangut",
+        "survey_no": "120",
+        "khata_no": "110",
+        "land_classification": "unirrigated_dry",
+        "plot_area": {
+          "value": 37.9,
+          "unit": "guntha",
+          "area_sqm": 3834.34,
+          "area_hectares": 0.3834
+        },
+        "owners": [
+          {
+            "name": "ज्ञानेश्वर कुलकर्णी",
+            "share": 0.5,
+            "is_deceased": false,
+            "date_of_death": null
+          },
+          {
+            "name": "सुप्रिया शिंदे",
+            "share": 0.5,
+            "is_deceased": false
+          }
+        ],
+        "mutation": {
+          "mutation_no": "M-820",
+          "mutation_date": "2021-09-18",
+          "registration_date": "2021-04-10",
+          "transferred_area_sqm": 1917.17,
+          "holding_area_sqm": 3834.34
+        },
+        "registration": {
+          "reg_no": "REG-2021-3020",
+          "reg_date": "2021-04-10"
+        },
+        "ulpin": "27HA1001000120"
+      }
+    },
+    {
+      "id": "BHU-REC-021",
+      "filename": "record_21.png",
+      "language": "english",
+      "document_type": "khatauni_7_12",
+      "degradation": "torn_corner",
+      "has_fault": false,
+      "injected_fault": null,
+      "ground_truth": {
+        "state": "Bihar",
+        "district": "Patna",
+        "tehsil": "Danapur",
+        "village": "Khagaul",
+        "survey_no": "121",
+        "khata_no": "113",
+        "land_classification": "irrigated",
+        "plot_area": {
+          "value": 3.3,
+          "unit": "acre",
+          "area_sqm": 13354.64,
+          "area_hectares": 1.3355
+        },
+        "owners": [
+          {
+            "name": "Sunita Pawar",
+            "share": 0.5,
+            "is_deceased": false,
+            "date_of_death": null
+          },
+          {
+            "name": "Ashok Yadav",
+            "share": 0.5,
+            "is_deceased": false
+          }
+        ],
+        "mutation": {
+          "mutation_no": "M-821",
+          "mutation_date": "2021-09-19",
+          "registration_date": "2021-03-16",
+          "transferred_area_sqm": 6677.32,
+          "holding_area_sqm": 13354.64
+        },
+        "registration": {
+          "reg_no": "REG-2021-3021",
+          "reg_date": "2021-03-16"
+        },
+        "ulpin": "27HA1001000121"
+      }
+    },
+    {
+      "id": "BHU-REC-022",
+      "filename": "record_22.png",
+      "language": "english",
+      "document_type": "mutation_register",
+      "degradation": "skew",
+      "has_fault": true,
+      "injected_fault": "overwritten_digits",
+      "ground_truth": {
+        "state": "Bihar",
+        "district": "Patna",
+        "tehsil": "Danapur",
+        "village": "Khagaul",
+        "survey_no": "122",
+        "khata_no": "116",
+        "land_classification": "irrigated",
+        "plot_area": {
+          "value": 3.16,
+          "unit": "acre",
+          "area_sqm": 12788.08,
+          "area_hectares": 1.2788
+        },
+        "owners": [
+          {
+            "name": "Suresh Singh",
+            "share": 0.5,
+            "is_deceased": false,
+            "date_of_death": null
+          },
+          {
+            "name": "Ramesh Verma",
+            "share": 0.5,
+            "is_deceased": false
+          }
+        ],
+        "mutation": {
+          "mutation_no": "M-822",
+          "mutation_date": "2021-09-12",
+          "registration_date": "2021-08-14",
+          "transferred_area_sqm": 6394.04,
+          "holding_area_sqm": 12788.08
+        },
+        "registration": {
+          "reg_no": "REG-2021-3022",
+          "reg_date": "2021-08-14"
+        },
+        "ulpin": "27HA1001000122"
+      }
+    },
+    {
+      "id": "BHU-REC-023",
+      "filename": "record_23.png",
+      "language": "english",
+      "document_type": "sale_deed",
+      "degradation": "low_resolution",
+      "has_fault": false,
+      "injected_fault": null,
+      "ground_truth": {
+        "state": "Bihar",
+        "district": "Patna",
+        "tehsil": "Danapur",
+        "village": "Khagaul",
+        "survey_no": "123",
+        "khata_no": "119",
+        "land_classification": "irrigated",
+        "plot_area": {
+          "value": 2.74,
+          "unit": "acre",
+          "area_sqm": 11088.4,
+          "area_hectares": 1.1088
+        },
+        "owners": [
+          {
+            "name": "Ashok Pawar",
+            "share": 0.5,
+            "is_deceased": false,
+            "date_of_death": null
+          },
+          {
+            "name": "Ganesh Yadav",
+            "share": 0.5,
+            "is_deceased": false
+          }
+        ],
+        "mutation": {
+          "mutation_no": "M-823",
+          "mutation_date": "2021-09-17",
+          "registration_date": "2021-05-23",
+          "transferred_area_sqm": 5544.2,
+          "holding_area_sqm": 11088.4
+        },
+        "registration": {
+          "reg_no": "REG-2021-3023",
+          "reg_date": "2021-05-23"
+        },
+        "ulpin": "27HA1001000123"
+      }
+    },
+    {
+      "id": "BHU-REC-024",
+      "filename": "record_24.png",
+      "language": "english",
+      "document_type": "khatauni_7_12",
+      "degradation": "handwritten_overlay",
+      "has_fault": false,
+      "injected_fault": null,
+      "ground_truth": {
+        "state": "Maharashtra",
+        "district": "Pune",
+        "tehsil": "Haveli",
+        "village": "Wagholi",
+        "survey_no": "124",
+        "khata_no": "122",
+        "land_classification": "irrigated",
+        "plot_area": {
+          "value": 3.94,
+          "unit": "acre",
+          "area_sqm": 15944.63,
+          "area_hectares": 1.5945
+        },
+        "owners": [
+          {
+            "name": "Ashok Singh",
+            "share": 0.5,
+            "is_deceased": false,
+            "date_of_death": null
+          },
+          {
+            "name": "Ganesh Yadav",
+            "share": 0.5,
+            "is_deceased": false
+          }
+        ],
+        "mutation": {
+          "mutation_no": "M-824",
+          "mutation_date": "2021-09-25",
+          "registration_date": "2021-07-13",
+          "transferred_area_sqm": 7972.31,
+          "holding_area_sqm": 15944.63
+        },
+        "registration": {
+          "reg_no": "REG-2021-3024",
+          "reg_date": "2021-07-13"
+        },
+        "ulpin": "27HA1001000124"
+      }
+    },
+    {
+      "id": "BHU-REC-025",
+      "filename": "record_25.png",
+      "language": "english",
+      "document_type": "mutation_register",
+      "degradation": "none",
+      "has_fault": true,
+      "injected_fault": "pasted_stamp_tampering",
+      "ground_truth": {
+        "state": "Maharashtra",
+        "district": "Pune",
+        "tehsil": "Haveli",
+        "village": "Wagholi",
+        "survey_no": "125",
+        "khata_no": "125",
+        "land_classification": "irrigated",
+        "plot_area": {
+          "value": 2.57,
+          "unit": "acre",
+          "area_sqm": 10400.43,
+          "area_hectares": 1.04
+        },
+        "owners": [
+          {
+            "name": "Suresh Singh",
+            "share": 0.5,
+            "is_deceased": false,
+            "date_of_death": null
+          },
+          {
+            "name": "Sunita Singh",
+            "share": 0.5,
+            "is_deceased": false
+          }
+        ],
+        "mutation": {
+          "mutation_no": "M-825",
+          "mutation_date": "2021-09-11",
+          "registration_date": "2021-05-16",
+          "transferred_area_sqm": 5200.22,
+          "holding_area_sqm": 10400.43
+        },
+        "registration": {
+          "reg_no": "REG-2021-3025",
+          "reg_date": "2021-05-16"
+        },
+        "ulpin": "27HA1001000125"
+      }
+    },
+    {
+      "id": "BHU-REC-026",
+      "filename": "record_26.png",
+      "language": "english",
+      "document_type": "sale_deed",
+      "degradation": "faded_ink",
+      "has_fault": false,
+      "injected_fault": null,
+      "ground_truth": {
+        "state": "Bihar",
+        "district": "Patna",
+        "tehsil": "Danapur",
+        "village": "Khagaul",
+        "survey_no": "126",
+        "khata_no": "128",
+        "land_classification": "irrigated",
+        "plot_area": {
+          "value": 2.43,
+          "unit": "acre",
+          "area_sqm": 9833.87,
+          "area_hectares": 0.9834
+        },
+        "owners": [
+          {
+            "name": "Suresh Verma",
+            "share": 0.5,
+            "is_deceased": false,
+            "date_of_death": null
+          },
+          {
+            "name": "Dattatraya Yadav",
+            "share": 0.5,
+            "is_deceased": false
+          }
+        ],
+        "mutation": {
+          "mutation_no": "M-826",
+          "mutation_date": "2021-09-15",
+          "registration_date": "2021-07-21",
+          "transferred_area_sqm": 4916.94,
+          "holding_area_sqm": 9833.87
+        },
+        "registration": {
+          "reg_no": "REG-2021-3026",
+          "reg_date": "2021-07-21"
+        },
+        "ulpin": "27HA1001000126"
+      }
+    },
+    {
+      "id": "BHU-REC-027",
+      "filename": "record_27.png",
+      "language": "english",
+      "document_type": "khatauni_7_12",
+      "degradation": "blur",
+      "has_fault": true,
+      "injected_fault": "shares_not_summing_to_1",
+      "ground_truth": {
+        "state": "Maharashtra",
+        "district": "Pune",
+        "tehsil": "Haveli",
+        "village": "Wagholi",
+        "survey_no": "127",
+        "khata_no": "131",
+        "land_classification": "irrigated",
+        "plot_area": {
+          "value": 2.5,
+          "unit": "acre",
+          "area_sqm": 10117.15,
+          "area_hectares": 1.0117
+        },
+        "owners": [
+          {
+            "name": "Suresh Sharma",
+            "share": 0.6,
+            "is_deceased": false,
+            "date_of_death": null
+          },
+          {
+            "name": "Suresh Kulkarni",
+            "share": 0.6,
+            "is_deceased": false
+          }
+        ],
+        "mutation": {
+          "mutation_no": "M-827",
+          "mutation_date": "2021-09-24",
+          "registration_date": "2021-06-28",
+          "transferred_area_sqm": 5058.57,
+          "holding_area_sqm": 10117.15
+        },
+        "registration": {
+          "reg_no": "REG-2021-3027",
+          "reg_date": "2021-06-28"
+        },
+        "ulpin": "27HA1001000127"
+      }
+    },
+    {
+      "id": "BHU-REC-028",
+      "filename": "record_28.png",
+      "language": "english",
+      "document_type": "mutation_register",
+      "degradation": "stains",
+      "has_fault": false,
+      "injected_fault": null,
+      "ground_truth": {
+        "state": "Maharashtra",
+        "district": "Pune",
+        "tehsil": "Haveli",
+        "village": "Wagholi",
+        "survey_no": "128",
+        "khata_no": "134",
+        "land_classification": "irrigated",
+        "plot_area": {
+          "value": 1.63,
+          "unit": "acre",
+          "area_sqm": 6596.38,
+          "area_hectares": 0.6596
+        },
+        "owners": [
+          {
+            "name": "Ashok Yadav",
+            "share": 0.5,
+            "is_deceased": false,
+            "date_of_death": null
+          },
+          {
+            "name": "Sunita Sharma",
+            "share": 0.5,
+            "is_deceased": false
+          }
+        ],
+        "mutation": {
+          "mutation_no": "M-828",
+          "mutation_date": "2021-09-23",
+          "registration_date": "2021-08-16",
+          "transferred_area_sqm": 3298.19,
+          "holding_area_sqm": 6596.38
+        },
+        "registration": {
+          "reg_no": "REG-2021-3028",
+          "reg_date": "2021-08-16"
+        },
+        "ulpin": "27HA1001000128"
+      }
+    },
+    {
+      "id": "BHU-REC-029",
+      "filename": "record_29.png",
+      "language": "english",
+      "document_type": "sale_deed",
+      "degradation": "torn_corner",
+      "has_fault": true,
+      "injected_fault": "missing_na_conversion_order",
+      "ground_truth": {
+        "state": "Maharashtra",
+        "district": "Pune",
+        "tehsil": "Mulshi",
+        "village": "Pirangut",
+        "survey_no": "129",
+        "khata_no": "137",
+        "land_classification": "non_agricultural",
+        "plot_area": {
+          "value": 1.76,
+          "unit": "acre",
+          "area_sqm": 7122.47,
+          "area_hectares": 0.7122
+        },
+        "owners": [
+          {
+            "name": "Ramesh Pawar",
+            "share": 0.5,
+            "is_deceased": false,
+            "date_of_death": null
+          },
+          {
+            "name": "Rajesh Verma",
+            "share": 0.5,
+            "is_deceased": false
+          }
+        ],
+        "mutation": {
+          "mutation_no": "M-829",
+          "mutation_date": "2021-09-26",
+          "registration_date": "2021-03-16",
+          "transferred_area_sqm": 3561.24,
+          "holding_area_sqm": 7122.47
+        },
+        "registration": {
+          "reg_no": "REG-2021-3029",
+          "reg_date": "2021-03-16"
+        },
+        "ulpin": "27HA1001000129"
+      }
+    },
+    {
+      "id": "BHU-REC-030",
+      "filename": "record_30.png",
+      "language": "english",
+      "document_type": "khatauni_7_12",
+      "degradation": "skew",
+      "has_fault": false,
+      "injected_fault": null,
+      "ground_truth": {
+        "state": "Maharashtra",
+        "district": "Pune",
+        "tehsil": "Haveli",
+        "village": "Wagholi",
+        "survey_no": "130",
+        "khata_no": "140",
+        "land_classification": "irrigated",
+        "plot_area": {
+          "value": 1.85,
+          "unit": "acre",
+          "area_sqm": 7486.69,
+          "area_hectares": 0.7487
+        },
+        "owners": [
+          {
+            "name": "Rajesh Kulkarni",
+            "share": 0.5,
+            "is_deceased": false,
+            "date_of_death": null
+          },
+          {
+            "name": "Kiran Pawar",
+            "share": 0.5,
+            "is_deceased": false
+          }
+        ],
+        "mutation": {
+          "mutation_no": "M-830",
+          "mutation_date": "2021-09-17",
+          "registration_date": "2021-04-10",
+          "transferred_area_sqm": 3743.34,
+          "holding_area_sqm": 7486.69
+        },
+        "registration": {
+          "reg_no": "REG-2021-3030",
+          "reg_date": "2021-04-10"
+        },
+        "ulpin": "27HA1001000130"
+      }
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+id: RULE_LAND_CLASS_CONVERSION_ORDER
+name: "Agricultural to Non-Agricultural (NA) Order Reference Check"
+description: "Verifies that any conversion from agricultural (irrigated or dry) to non-agricultural/commercial use includes a valid revenue authority conversion/NA permission order reference."
+severity: "error"
+applies_to: "all"
+state_scope: "all"
+enabled: true
+message_template: "Land class conversion to '{new_class}' from agricultural use lacks the required Non-Agricultural (NA) conversion order reference."
+disclaimer: "advisory, not legal advice"

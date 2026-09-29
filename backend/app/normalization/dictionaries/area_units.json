@@ -1,0 +1,99 @@
+{
+  "standard_units": {
+    "sqm": {
+      "canonical": "sqm",
+      "sqm_factor": 1.0,
+      "synonyms": ["sqm", "sq m", "sq.m", "square meter", "square metre", "वर्ग मीटर", "चौ मीटर"]
+    },
+    "hectare": {
+      "canonical": "hectare",
+      "sqm_factor": 10000.0,
+      "synonyms": ["hectare", "ha", "hec", "हेक्टर", "हेक्टेयर", "హెక్టారు"]
+    },
+    "acre": {
+      "canonical": "acre",
+      "sqm_factor": 4046.8564224,
+      "synonyms": ["acre", "ac", "एकड़", "एकर", "ఎకరం"]
+    },
+    "guntha": {
+      "canonical": "guntha",
+      "sqm_factor": 101.17141056,
+      "synonyms": ["guntha", "gunta", "गुंठा", "गुंठे", "గుంట"]
+    },
+    "are": {
+      "canonical": "are",
+      "sqm_factor": 100.0,
+      "synonyms": ["are", "aar", "आर", "आर."]
+    },
+    "cent": {
+      "canonical": "cent",
+      "sqm_factor": 40.468564,
+      "synonyms": ["cent", "cents", "सेंट", "సెంట్"]
+    }
+  },
+  "state_variable_units": {
+    "bigha": {
+      "canonical": "bigha",
+      "synonyms": ["bigha", "beeghe", "बीघा", "बिघा"],
+      "default_range_sqm": [800.0, 2529.285264],
+      "state_factors": {
+        "uttar pradesh": 2529.285264,
+        "up": 2529.285264,
+        "uttarakhand": 2529.285264,
+        "bihar": 2529.285264,
+        "rajasthan": 1618.74,
+        "madhya pradesh": 1335.46,
+        "mp": 1335.46,
+        "west bengal": 1333.33,
+        "punjab": 1011.714,
+        "haryana": 1011.714,
+        "himachal pradesh": 800.0,
+        "hp": 800.0,
+        "assam": 1337.8
+      }
+    },
+    "biswa": {
+      "canonical": "biswa",
+      "synonyms": ["biswa", "बिस्वा", "बिस्वे"],
+      "default_range_sqm": [50.58, 126.46],
+      "state_factors": {
+        "uttar pradesh": 126.464,
+        "up": 126.464,
+        "rajasthan": 80.937,
+        "punjab": 50.5857,
+        "haryana": 50.5857
+      }
+    },
+    "katha": {
+      "canonical": "katha",
+      "synonyms": ["katha", "kattha", "कट्ठा", "कठ्ठा"],
+      "default_range_sqm": [66.89, 267.56],
+      "state_factors": {
+        "bihar": 126.464,
+        "west bengal": 66.89,
+        "assam": 267.56
+      }
+    },
+    "kanal": {
+      "canonical": "kanal",
+      "synonyms": ["kanal", "कनाल"],
+      "default_range_sqm": [505.857, 505.857],
+      "state_factors": {
+        "punjab": 505.857,
+        "haryana": 505.857,
+        "himachal pradesh": 505.857,
+        "jammu and kashmir": 505.857
+      }
+    },
+    "marla": {
+      "canonical": "marla",
+      "synonyms": ["marla", "मरला"],
+      "default_range_sqm": [25.293, 25.293],
+      "state_factors": {
+        "punjab": 25.29285,
+        "haryana": 25.29285,
+        "himachal pradesh": 25.29285
+      }
+    }
+  }
+}

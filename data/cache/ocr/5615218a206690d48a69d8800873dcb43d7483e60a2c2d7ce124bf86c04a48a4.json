@@ -1,0 +1,552 @@
+{
+  "image_hash": "5615218a206690d48a69d8800873dcb43d7483e60a2c2d7ce124bf86c04a48a4",
+  "extraction": {
+    "document_type": {
+      "value": "khatauni_7_12",
+      "raw_text": "khatauni_7_12",
+      "confidence": 0.96,
+      "bbox": [
+        0.1,
+        0.1,
+        0.2,
+        0.9
+      ],
+      "source_engine": "mock_ground_truth",
+      "flags": [],
+      "confidence_breakdown": null
+    },
+    "state": {
+      "value": "Uttar Pradesh",
+      "raw_text": "Uttar Pradesh",
+      "confidence": 0.98,
+      "bbox": [
+        0.1,
+        0.1,
+        0.2,
+        0.9
+      ],
+      "source_engine": "mock_ground_truth",
+      "flags": [],
+      "confidence_breakdown": null
+    },
+    "district": {
+      "value": "Lucknow",
+      "raw_text": "Lucknow",
+      "confidence": 0.97,
+      "bbox": [
+        0.1,
+        0.1,
+        0.2,
+        0.9
+      ],
+      "source_engine": "mock_ground_truth",
+      "flags": [],
+      "confidence_breakdown": null
+    },
+    "tehsil": {
+      "value": "Bakshi Ka Talab",
+      "raw_text": "Bakshi Ka Talab",
+      "confidence": 0.95,
+      "bbox": [
+        0.1,
+        0.1,
+        0.2,
+        0.9
+      ],
+      "source_engine": "mock_ground_truth",
+      "flags": [],
+      "confidence_breakdown": null
+    },
+    "village": {
+      "value": "Bargadi",
+      "raw_text": "Bargadi",
+      "confidence": 0.96,
+      "bbox": [
+        0.1,
+        0.1,
+        0.2,
+        0.9
+      ],
+      "source_engine": "mock_ground_truth",
+      "flags": [],
+      "confidence_breakdown": null
+    },
+    "survey_no": {
+      "value": "101",
+      "raw_text": "101",
+      "confidence": 0.94,
+      "bbox": [
+        0.14,
+        0.08,
+        0.18,
+        0.45
+      ],
+      "source_engine": "mock_ground_truth",
+      "flags": [],
+      "confidence_breakdown": null
+    },
+    "khasra_no": null,
+    "khata_no": {
+      "value": "53",
+      "raw_text": "53",
+      "confidence": 0.93,
+      "bbox": [
+        0.14,
+        0.45,
+        0.18,
+        0.7
+      ],
+      "source_engine": "mock_ground_truth",
+      "flags": [],
+      "confidence_breakdown": null
+    },
+    "sub_division": {
+      "value": "1",
+      "raw_text": "1",
+      "confidence": 0.9,
+      "bbox": [
+        0.14,
+        0.7,
+        0.18,
+        0.92
+      ],
+      "source_engine": "mock_ground_truth",
+      "flags": [],
+      "confidence_breakdown": null
+    },
+    "ulpin": {
+      "value": "27HA1001000101",
+      "raw_text": "27HA1001000101",
+      "confidence": 0.95,
+      "bbox": [
+        0.68,
+        0.1,
+        0.72,
+        0.6
+      ],
+      "source_engine": "mock_ground_truth",
+      "flags": [],
+      "confidence_breakdown": null
+    },
+    "plot_area": {
+      "value": {
+        "value": 2.5,
+        "raw_text": "2.5",
+        "confidence": 0.92,
+        "bbox": [
+          0.28,
+          0.78,
+          0.33,
+          0.95
+        ],
+        "source_engine": "mock_ground_truth",
+        "flags": [],
+        "confidence_breakdown": null
+      },
+      "unit": {
+        "value": "bigha",
+        "raw_text": "bigha",
+        "confidence": 0.95,
+        "bbox": [
+          0.28,
+          0.85,
+          0.33,
+          0.95
+        ],
+        "source_engine": "mock_ground_truth",
+        "flags": [],
+        "confidence_breakdown": null
+      },
+      "area_sqm": {
+        "value": 6323.23,
+        "raw_text": "6323.23",
+        "confidence": 0.94,
+        "bbox": [
+          0.1,
+          0.1,
+          0.2,
+          0.9
+        ],
+        "source_engine": "mock_ground_truth",
+        "flags": [],
+        "confidence_breakdown": null
+      },
+      "area_hectares": {
+        "value": 0.6323,
+        "raw_text": "0.6323",
+        "confidence": 0.94,
+        "bbox": [
+          0.1,
+          0.1,
+          0.2,
+          0.9
+        ],
+        "source_engine": "mock_ground_truth",
+        "flags": [],
+        "confidence_breakdown": null
+      }
+    },
+    "land_classification": {
+      "value": "irrigated",
+      "raw_text": "irrigated",
+      "confidence": 0.92,
+      "bbox": [
+        0.14,
+        0.7,
+        0.18,
+        0.94
+      ],
+      "source_engine": "mock_ground_truth",
+      "flags": [],
+      "confidence_breakdown": null
+    },
+    "ownership_type": {
+      "value": "freehold",
+      "raw_text": "freehold",
+      "confidence": 0.95,
+      "bbox": [
+        0.1,
+        0.1,
+        0.2,
+        0.9
+      ],
+      "source_engine": "mock_ground_truth",
+      "flags": [],
+      "confidence_breakdown": null
+    },
+    "landowners": [
+      {
+        "name": {
+          "value": "अशोक सिंह",
+          "raw_text": "अशोक सिंह",
+          "confidence": 0.94,
+          "bbox": [
+            0.25,
+            0.15,
+            0.29,
+            0.45
+          ],
+          "source_engine": "mock_ground_truth",
+          "flags": [],
+          "confidence_breakdown": null
+        },
+        "father_or_husband_name": {
+          "value": "Shri B. Patil",
+          "raw_text": "Shri B. Patil",
+          "confidence": 0.9,
+          "bbox": [
+            0.25,
+            0.45,
+            0.29,
+            0.68
+          ],
+          "source_engine": "mock_ground_truth",
+          "flags": [],
+          "confidence_breakdown": null
+        },
+        "share": {
+          "value": 0.5,
+          "raw_text": "0.5",
+          "confidence": 0.92,
+          "bbox": [
+            0.25,
+            0.68,
+            0.29,
+            0.82
+          ],
+          "source_engine": "mock_ground_truth",
+          "flags": [],
+          "confidence_breakdown": null
+        },
+        "is_minor": {
+          "value": false,
+          "raw_text": "",
+          "confidence": 0.95,
+          "bbox": [
+            0.1,
+            0.1,
+            0.2,
+            0.9
+          ],
+          "source_engine": "mock_ground_truth",
+          "flags": [],
+          "confidence_breakdown": null
+        },
+        "is_deceased": {
+          "value": false,
+          "raw_text": "",
+          "confidence": 0.95,
+          "bbox": [
+            0.1,
+            0.1,
+            0.2,
+            0.9
+          ],
+          "source_engine": "mock_ground_truth",
+          "flags": [],
+          "confidence_breakdown": null
+        }
+      },
+      {
+        "name": {
+          "value": "सुनीता मिश्रा",
+          "raw_text": "सुनीता मिश्रा",
+          "confidence": 0.94,
+          "bbox": [
+            0.3,
+            0.15,
+            0.33999999999999997,
+            0.45
+          ],
+          "source_engine": "mock_ground_truth",
+          "flags": [],
+          "confidence_breakdown": null
+        },
+        "father_or_husband_name": {
+          "value": "Shri B. Patil",
+          "raw_text": "Shri B. Patil",
+          "confidence": 0.9,
+          "bbox": [
+            0.3,
+            0.45,
+            0.33999999999999997,
+            0.68
+          ],
+          "source_engine": "mock_ground_truth",
+          "flags": [],
+          "confidence_breakdown": null
+        },
+        "share": {
+          "value": 0.5,
+          "raw_text": "0.5",
+          "confidence": 0.92,
+          "bbox": [
+            0.3,
+            0.68,
+            0.33999999999999997,
+            0.82
+          ],
+          "source_engine": "mock_ground_truth",
+          "flags": [],
+          "confidence_breakdown": null
+        },
+        "is_minor": {
+          "value": false,
+          "raw_text": "",
+          "confidence": 0.95,
+          "bbox": [
+            0.1,
+            0.1,
+            0.2,
+            0.9
+          ],
+          "source_engine": "mock_ground_truth",
+          "flags": [],
+          "confidence_breakdown": null
+        },
+        "is_deceased": {
+          "value": false,
+          "raw_text": "",
+          "confidence": 0.95,
+          "bbox": [
+            0.1,
+            0.1,
+            0.2,
+            0.9
+          ],
+          "source_engine": "mock_ground_truth",
+          "flags": [],
+          "confidence_breakdown": null
+        }
+      }
+    ],
+    "mutation_entries": [
+      {
+        "mutation_no": {
+          "value": "M-801",
+          "raw_text": "M-801",
+          "confidence": 0.95,
+          "bbox": [
+            0.52,
+            0.1,
+            0.55,
+            0.35
+          ],
+          "source_engine": "mock_ground_truth",
+          "flags": [],
+          "confidence_breakdown": null
+        },
+        "mutation_date": {
+          "value": "2021-09-26",
+          "raw_text": "2021-09-26",
+          "confidence": 0.93,
+          "bbox": [
+            0.52,
+            0.4,
+            0.55,
+            0.65
+          ],
+          "source_engine": "mock_ground_truth",
+          "flags": [],
+          "confidence_breakdown": null
+        },
+        "registration_date": {
+          "value": "2021-07-10",
+          "raw_text": "2021-07-10",
+          "confidence": 0.93,
+          "bbox": [
+            0.55,
+            0.4,
+            0.58,
+            0.65
+          ],
+          "source_engine": "mock_ground_truth",
+          "flags": [],
+          "confidence_breakdown": null
+        },
+        "mutation_type": null,
+        "from_party": {
+          "value": "अशोक सिंह",
+          "raw_text": "अशोक सिंह",
+          "confidence": 0.91,
+          "bbox": [
+            0.58,
+            0.1,
+            0.61,
+            0.45
+          ],
+          "source_engine": "mock_ground_truth",
+          "flags": [],
+          "confidence_breakdown": null
+        },
+        "to_party": {
+          "value": "सुनीता मिश्रा",
+          "raw_text": "सुनीता मिश्रा",
+          "confidence": 0.91,
+          "bbox": [
+            0.58,
+            0.5,
+            0.61,
+            0.9
+          ],
+          "source_engine": "mock_ground_truth",
+          "flags": [],
+          "confidence_breakdown": null
+        },
+        "transferred_area": {
+          "value": 3161.61,
+          "raw_text": "3161.61",
+          "confidence": 0.92,
+          "bbox": [
+            0.61,
+            0.1,
+            0.64,
+            0.5
+          ],
+          "source_engine": "mock_ground_truth",
+          "flags": [],
+          "confidence_breakdown": null
+        },
+        "order_ref": {
+          "value": "REV/SDO/2021/894",
+          "raw_text": "REV/SDO/2021/894",
+          "confidence": 0.94,
+          "bbox": [
+            0.64,
+            0.1,
+            0.67,
+            0.6
+          ],
+          "source_engine": "mock_ground_truth",
+          "flags": [],
+          "confidence_breakdown": null
+        },
+        "status": null
+      }
+    ],
+    "registration": {
+      "reg_no": {
+        "value": "REG-2021-3001",
+        "raw_text": "REG-2021-3001",
+        "confidence": 0.96,
+        "bbox": [
+          0.55,
+          0.1,
+          0.58,
+          0.4
+        ],
+        "source_engine": "mock_ground_truth",
+        "flags": [],
+        "confidence_breakdown": null
+      },
+      "reg_date": {
+        "value": "2021-07-10",
+        "raw_text": "2021-07-10",
+        "confidence": 0.94,
+        "bbox": [
+          0.55,
+          0.4,
+          0.58,
+          0.65
+        ],
+        "source_engine": "mock_ground_truth",
+        "flags": [],
+        "confidence_breakdown": null
+      },
+      "sub_registrar_office": {
+        "value": "Sub-Registrar Bakshi Ka Talab",
+        "raw_text": "Sub-Registrar Bakshi Ka Talab",
+        "confidence": 0.92,
+        "bbox": [
+          0.1,
+          0.1,
+          0.2,
+          0.9
+        ],
+        "source_engine": "mock_ground_truth",
+        "flags": [],
+        "confidence_breakdown": null
+      },
+      "stamp_duty_paid": null
+    },
+    "encumbrances_or_loans": null,
+    "remarks_or_annotations": null,
+    "na_conversion_order_ref": null,
+    "restricted_tenure_permission_ref": null
+  },
+  "agreements": {
+    "document_type": 0.95,
+    "state": 0.95,
+    "district": 0.95,
+    "tehsil": 0.95,
+    "village": 0.95,
+    "survey_no": 0.95,
+    "khata_no": 0.95,
+    "sub_division": 0.95,
+    "ulpin": 0.95,
+    "plot_area_value": 0.95,
+    "plot_area_unit": 0.95,
+    "land_classification": 0.95,
+    "ownership_type": 0.95,
+    "owner_0_name": 0.95,
+    "owner_0_share": 0.95,
+    "owner_0_father_husband": 0.95,
+    "owner_0_is_minor": 0.95,
+    "owner_0_is_deceased": 0.95,
+    "owner_1_name": 0.95,
+    "owner_1_share": 0.95,
+    "owner_1_father_husband": 0.95,
+    "owner_1_is_minor": 0.95,
+    "owner_1_is_deceased": 0.95,
+    "mutation_0_no": 0.95,
+    "mutation_0_date": 0.95,
+    "mutation_0_reg_date": 0.95,
+    "mutation_0_from": 0.95,
+    "mutation_0_to": 0.95,
+    "mutation_0_area": 0.95,
+    "mutation_0_order_ref": 0.95,
+    "reg_no": 0.95,
+    "reg_date": 0.95,
+    "sub_registrar_office": 0.95
+  }
+}

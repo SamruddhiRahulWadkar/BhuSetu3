@@ -1,0 +1,9 @@
+id: RULE_MUTATION_CHRONOLOGY
+name: "Mutation Temporal and Chronological Ordering"
+description: "Verifies that the mutation entry date occurs on or after the underlying registered deed date, mutation numbers are strictly sequential, and no dates lie in the future."
+severity: "error"
+applies_to: ["mutation_register", "sale_deed"]
+state_scope: "all"
+enabled: true
+message_template: "Temporal inconsistency detected: Mutation #{mutation_no} date ({mutation_date}) is chronologically earlier than registration deed date ({deed_date})."
+disclaimer: "advisory, not legal advice"

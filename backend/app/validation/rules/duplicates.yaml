@@ -1,0 +1,9 @@
+id: RULE_DUPLICATE_REGISTRY_DETECTION
+name: "Duplicate Survey or Registration Number Detection"
+description: "Flags duplicate document registrations where the same registration number is reused across distinct transactions, or conflicting active titles exist on identical survey/hissa numbers in the same village."
+severity: "critical"
+applies_to: "all"
+state_scope: "all"
+enabled: true
+message_template: "Duplicate record conflict: Survey #{survey_no} in village '{village}' or Registration #{reg_no} is already registered under document '{conflicting_doc_id}'."
+disclaimer: "advisory, not legal advice"

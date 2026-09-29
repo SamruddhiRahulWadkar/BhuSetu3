@@ -1,0 +1,58 @@
+{
+  "taxonomies": {
+    "irrigated": {
+      "canonical": "irrigated",
+      "description": "Artificially irrigated agricultural land (Chahi/Nahri/Bagayat)",
+      "synonyms": [
+        "irrigated", "chahi", "nahri", "bagayat", "bagayat_irrigated",
+        "सिंचित", "बागायत", "नहरी", "चाही", "सिंचाई योग्य", "पियत",
+        "వరి పండే భూమి", "నీటిపారుదల భూమి"
+      ]
+    },
+    "unirrigated_dry": {
+      "canonical": "unirrigated_dry",
+      "description": "Rainfed / dry agricultural land (Jirayat/Barani)",
+      "synonyms": [
+        "dry", "unirrigated", "rainfed", "barani", "jirayat", "asinchit",
+        "जिरायत", "असिंचित", "कोरडवाहू", "बारानी", "शुष्क",
+        "మెట్ట భూమి", "వర్షాధార భూమి"
+      ]
+    },
+    "barren_waste": {
+      "canonical": "barren_waste",
+      "description": "Barren, uncultivable, or wasteland (Banjar/Usar)",
+      "synonyms": [
+        "barren", "waste", "uncultivable", "usar", "banjar", "pad zameen",
+        "बंजर", "पड जमीन", "ऊसर", "अनुपजाऊ", "खार जमीन",
+        "బంజరు భూమి", "బీడు భూమి"
+      ]
+    },
+    "habitation_abadi": {
+      "canonical": "habitation_abadi",
+      "description": "Settlement or village habitation area (Abadi/Gawthan)",
+      "synonyms": [
+        "abadi", "gawthan", "habitation", "residential", "village site",
+        "आबादी", "गावठाण", "वस्ती", "आवासीय", "गाँव आबादी",
+        "గ్రామ కంఠం", "నివాస స్థలము"
+      ]
+    },
+    "forest_government": {
+      "canonical": "forest_government",
+      "description": "Forest or government reserved land",
+      "synonyms": [
+        "forest", "reserved forest", "jungle", "vanya", "sarkari",
+        "जंगल", "वन", "वन्य", "सरकारी वन", "संरक्षित वन",
+        "అటవీ భూమి"
+      ]
+    },
+    "non_agricultural": {
+      "canonical": "non_agricultural",
+      "description": "Converted non-agricultural land (commercial, industrial, residential NA)",
+      "synonyms": [
+        "na", "non agricultural", "commercial", "industrial", "converted",
+        "अकृषक", "अकृषिक", "बिगरशेती", "एनए", "व्यावसायिक", "औद्योगिक",
+        "వ్యవసాయేతర భూమి"
+      ]
+    }
+  }
+}

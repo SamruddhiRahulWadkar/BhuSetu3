@@ -1,0 +1,11 @@
+id: RULE_IDENTIFIER_FORMAT_CHECK
+name: "Survey, Khata, and 14-char ULPIN Format Validation"
+description: "Verifies that survey numbers, khasra numbers, khata numbers, and ULPIN (Bhu-Aadhaar) conform to official formatting standards and 14-character alphanumeric checksum specs."
+severity: "warn"
+applies_to: "all"
+state_scope: "all"
+enabled: true
+ulpin_regex: "^[A-Z0-9]{14}$"
+survey_regex: "^[0-9]+([/\\-][0-9A-Za-z]+)?$"
+message_template: "Format violation: '{field_name}' value '{value}' does not conform to standard format (Pattern: {expected_format})."
+disclaimer: "advisory, not legal advice"

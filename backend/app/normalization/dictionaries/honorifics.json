@@ -1,0 +1,40 @@
+{
+  "honorifics": [
+    "shri", "shree", "sri", "smt", "shrimati", "kumari", "km", "late", "dr", "mr", "mrs", "ms",
+    "श्री", "श्रीमती", "सुश्री", "कु.", "कुमारी", "स्व.", "स्वर्गवासी", "स्वर्गीय", "चि.", "मे.", "डॉ.",
+    "శ్రీ", "శ్రీమతి", "కుమారి"
+  ],
+  "transliterations": {
+    "रमेश": "Ramesh",
+    "पाटील": "Patil",
+    "सुरेश": "Suresh",
+    "जोशी": "Joshi",
+    "राजेश": "Rajesh",
+    "शर्मा": "Sharma",
+    "राम": "Ram",
+    "कुमार": "Kumar",
+    "वर्मा": "Verma",
+    "अशोक": "Ashok",
+    "यादव": "Yadav",
+    "संजय": "Sanjay",
+    "सिंह": "Singh",
+    "किरण": "Kiran",
+    "देशमुख": "Deshmukh",
+    "विष्णु": "Vishnu",
+    "पवार": "Pawar",
+    "गणेश": "Ganesh",
+    "कुलकर्णी": "Kulkarni",
+    "अमित": "Amit",
+    "गुप्ता": "Gupta",
+    "प्रमोद": "Pramod",
+    "शिंदे": "Shinde",
+    "बाबूराव": "Baburao",
+    "चव्हाण": "Chavan",
+    "दत्तात्रेय": "Dattatraya",
+    "गायकवाड": "Gaikwad",
+    "ज्ञानेश्वर": "Dnyaneshwar",
+    "मोरे": "More",
+    "नारायण": "Narayan",
+    "जाधव": "Jadhav"
+  }
+}
