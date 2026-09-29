@@ -1,16 +1,16 @@
-services:
-  - type: web
-    name: bhusetu-app
-    env: docker
-    dockerfilePath: Dockerfile
-    plan: free
-    region: singapore
-    envVars:
-      - key: MOCK_OCR_MODE
-        value: "true"
-      - key: SECRET_KEY
-        generateValue: true
-      - key: PORT
-        value: "8000"
-      - key: DATABASE_URL
-        value: "sqlite:///./bhusetu.db"
+# Exported from Render on 2026-09-29T20:23:58Z
+version: "1"
+projects:
+- name: My project
+  environments:
+  - name: Production
+    services:
+    - type: web
+      name: bhusetu3
+      runtime: docker
+      repo: https://github.com/angwanibhumika-ux/bhusetu3
+      plan: free
+      region: oregon
+      dockerContext: .
+      dockerfilePath: ./Dockerfile
+      autoDeployTrigger: commit
